@@ -1,2 +1,2 @@
 # UI-Clones
-Basic UI Clones practice to learn HTML&amp;CSS
+Basic UI Clones to practice HTML&amp;CSS
