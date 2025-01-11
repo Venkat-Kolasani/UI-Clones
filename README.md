@@ -9,6 +9,7 @@ Netflix UI Clone
 <br>
 
 Zerodha UI Clone
+![image](https://github.com/user-attachments/assets/a696a487-c812-4c2d-9b74-3d85288e2b44)
 
 
 
