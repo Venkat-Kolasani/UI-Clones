@@ -8,9 +8,13 @@ Netflix UI Clone
 ![image](https://github.com/user-attachments/assets/e858c996-2cc5-4817-b31b-3aab302754f4)
 <br>
 
-Zerodha UI Clone
-![image](https://github.com/user-attachments/assets/a696a487-c812-4c2d-9b74-3d85288e2b44)
+Spotify 
+![image](https://github.com/user-attachments/assets/4ce0b6ac-3c7f-48ac-b477-b64bdb993419)
 
+<br>
+Zerodha UI Clone
+
+![image](https://github.com/user-attachments/assets/a696a487-c812-4c2d-9b74-3d85288e2b44)
 
 
 
